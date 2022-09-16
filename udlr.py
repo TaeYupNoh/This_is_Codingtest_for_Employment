@@ -25,3 +25,4 @@ for i in move_lis:
     outchecker()
 
 print(a,b)
+
